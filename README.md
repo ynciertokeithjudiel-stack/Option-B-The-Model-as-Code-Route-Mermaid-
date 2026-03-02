@@ -1,5 +1,5 @@
 #My Enrollment Model
-mermaid
+```mermaid
 erDiagram
     STUDENT ||--o{ ENROLLMENT : "makes"
     SESSION ||--o{ ENROLLMENT : "receives"
